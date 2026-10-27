@@ -59,12 +59,13 @@ Full outline (Chinese): see [`outline.md`](./outline.md).
 
 ## Repository structure
 
+```text
 SignalLab/
 ├── README.md              
 ├── LICENSE                
 ├── .gitignore
 ├── outline.md             
-└── stations/              
+└── stages/              
     ├── 00-map/
     │   └── notes.md
     ├── 01-time-domain/
@@ -75,7 +76,7 @@ SignalLab/
     │   ├── s02_fft.py
     │   └── s02b_pulse.py
     └── ...
-
+```
 
 ## License
 
