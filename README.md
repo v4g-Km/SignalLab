@@ -1,7 +1,7 @@
 # SignalLab — From Textbook to Signal Data-Flow
 
 Reverse-engineering a mechanical-engineering testing textbook
-(*《机械工程测试技术基础》*) into the core route of signal data-flow —
+(*《机械工程测试技术基础》(Fundamentals of Measurement Techniques for Mechanical Engineering)*) into the core route of signal data-flow —
 one minimal Python MVP per chapter, grounded in how the human brain
 actually learns.
 
