@@ -41,18 +41,18 @@ It is a learning artifact that:
 
 ## The signal data-flow route
 
-| Stage | Theme | Core question | Script |
-|---|---|---|---|
-| 0 | The map | Why is your system already a test system? | — |
-| 1 | Time domain | What does this signal look like? | `s01` |
-| 2 | Frequency domain | What frequencies compose it? | `s02`, `s02b` |
-| 3 | Sampling | How do we capture a continuous signal? | `s03` |
-| 4 | Filtering | How do we clean the noise? | `s04` |
-| 5 | Sensors | How is the physical quantity translated? | `s05` |
-| 6 | System Dynamics & Inertia | Why do physical systems lag and attenuate? | `s06` |
-| 7 | Feature extraction | How to find "blink" and "focus"? | `s07`, `s07b`, `s07c` |
-| 8 | Parameter measurement | What does a robot arm measure? | `s08` |
-| 9 | Closed loop | Putting it all together | `s09`, `s09b`, `s10` |
+| Stage | Theme                     | Core question                                        | Script                |
+| ----- | ------------------------- | ---------------------------------------------------- | --------------------- |
+| 0     | The map                   | Why is a test system essentially a signal data-flow? | —                     |
+| 1     | Time domain               | What does this signal look like?                     | `s01`                 |
+| 2     | Frequency domain          | What frequencies compose it?                         | `s02`, `s02b`         |
+| 3     | Sampling                  | How do we capture a continuous signal?               | `s03`                 |
+| 4     | Filtering                 | How do we clean the noise?                           | `s04`                 |
+| 5     | Sensors                   | How is the physical quantity translated?             | `s05`                 |
+| 6     | System Dynamics & Inertia | Why do physical systems lag and attenuate?           | `s06`                 |
+| 7     | Feature extraction        | How to find "blink" and "focus"?                     | `s07`, `s07b`, `s07c` |
+| 8     | Parameter measurement     | What does a robot arm measure?                       | `s08`                 |
+| 9     | Closed loop               | Putting it all together                              | `s09`, `s09b`, `s10`  |
 
 Full outline (Chinese): see [`outline.md`](./outline.md).
 
